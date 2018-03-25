@@ -1,0 +1,10 @@
+﻿  buttle_city.cpp
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(29): warning C4305: аргумент: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(30): warning C4305: +=: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(36): warning C4305: аргумент: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(37): warning C4305: +=: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(43): warning C4305: аргумент: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(44): warning C4305: +=: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(50): warning C4305: аргумент: усечение из "double" в "float"
+e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(51): warning C4305: +=: усечение из "double" в "float"
+  Buttle_City.vcxproj -> E:\Курсач\code\Buttle_City\x64\Debug\Buttle_City.exe
