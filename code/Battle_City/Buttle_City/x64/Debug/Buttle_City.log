@@ -1,10 +1,16 @@
-﻿  buttle_city.cpp
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(29): warning C4305: аргумент: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(30): warning C4305: +=: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(36): warning C4305: аргумент: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(37): warning C4305: +=: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(43): warning C4305: аргумент: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(44): warning C4305: +=: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(50): warning C4305: аргумент: усечение из "double" в "float"
-e:\курсач\code\buttle_city\buttle_city\buttle_city.cpp(51): warning C4305: +=: усечение из "double" в "float"
-  Buttle_City.vcxproj -> E:\Курсач\code\Buttle_City\x64\Debug\Buttle_City.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Buttle_City.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  battle_city.cpp
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(59): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(70): warning C4305: =: усечение из "double" в "float"
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(71): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(76): warning C4305: =: усечение из "double" в "float"
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(77): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(82): warning C4305: =: усечение из "double" в "float"
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(88): warning C4305: =: усечение из "double" в "float"
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(89): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(124): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\курсач\code\battle_city\buttle_city\battle_city.cpp(128): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Buttle_City.vcxproj -> E:\Курсач\code\Battle_City\x64\Debug\Battle_City.exe
